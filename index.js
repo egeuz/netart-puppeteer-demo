@@ -21,7 +21,7 @@ import saveTweets from './src/saveTweets.js';
     // what other options can we think about for this function?
   });
 
-  // step 3: save the tweets into a local .json file i'
+  // step 3: save the tweets into a local .json file
   saveTweets(collectedTweets);
 
 })();
